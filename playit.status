@@ -1,795 +1,495 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717896643293 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718475972203 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896646349 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475975243 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896649432 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475978284 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896652478 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475981331 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896655534 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475984411 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896658576 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475987470 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896661616 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475990594 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896664704 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475993630 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896667753 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475996670 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896670797 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718475999706 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896673843 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476002762 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896676881 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476005860 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896679925 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476008929 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896682985 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476011995 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896686040 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476015043 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896689180 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476018100 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896692266 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476021163 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896695311 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476024208 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896698344 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476027290 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896701398 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476030368 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896704448 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476033409 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896707525 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476036450 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896710589 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476039486 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896713644 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476042545 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896716699 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476045608 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896719738 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476048656 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896722780 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476051717 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896725828 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476054766 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896728863 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476057812 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896731899 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476060874 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896734930 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476063937 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896737993 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476066993 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896741060 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476070035 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896744100 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476073085 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896747134 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476076144 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896750172 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476079180 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896753215 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476082263 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896756258 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476085318 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896759351 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476088384 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896762412 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476091420 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896765469 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476094479 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896768526 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476097535 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896771574 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476100587 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896774725 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476103642 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896777758 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476106694 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896780817 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476109747 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896783883 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476112808 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896786951 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476115853 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896789993 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476118903 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896793060 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476121966 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896796131 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476125022 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896799174 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476128137 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896802219 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476131175 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896805266 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476134214 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896808308 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476137267 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896811362 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476140316 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896814429 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476143372 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896817513 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476146419 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896820575 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476149480 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896823614 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476152531 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896826655 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476155590 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896829709 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476158627 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896832770 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476161666 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896835818 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476164720 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896838872 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476167804 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896841922 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476170848 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896844962 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476173893 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896848006 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476176940 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896851047 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476180019 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896854109 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476183063 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896857153 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476186114 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896860213 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476189225 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896863267 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476192283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896866303 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476195421 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896869337 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476198452 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896872390 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476201491 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896875435 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476204558 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896878487 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476207603 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896881555 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476210649 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896884607 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476213711 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896887657 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476216762 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896890701 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476219846 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896893737 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476222894 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896896810 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476225957 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896899873 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476229015 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896902914 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476232074 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896905973 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476235144 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896909022 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476238220 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896912058 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476241274 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896915115 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476244317 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896918189 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476247375 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896921257 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476250427 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896924291 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476253465 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896927343 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476256527 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896930379 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476259589 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896933415 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476262730 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896936452 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476265791 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896939501 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476268831 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896942541 tunnel running, 1 tunnels registered
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718476271884 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896945605 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896948640 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896951688 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896954719 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896957784 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896960838 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896963897 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896966933 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896969997 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896973045 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896976097 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896979155 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896982187 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896985223 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896988274 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896991316 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896994351 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717896997392 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897000457 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897003506 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897006614 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897009649 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897012731 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897015790 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897018850 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897021916 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897024966 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897028020 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897031070 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897034106 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897037187 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897040237 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897043293 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897046345 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897049389 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897052433 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897055495 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897058546 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897061606 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897064643 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897067688 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897070718 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897073777 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897076824 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897079862 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897082925 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897085976 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897089026 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897092085 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897095147 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897098181 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897101234 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897104302 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897107373 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897110432 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897113485 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897116543 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897119598 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897122669 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1717897125728 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-publisher-shaved.gl.at.ply.gg:4046 => 127.0.0.1:4046 (proto: Udp, port count: 1)
+my-coverage.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
